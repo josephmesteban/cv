@@ -161,13 +161,13 @@ skills:
 
     toolset:
       - name: C / C++
-        level: 95%
+        level: 96%
 
       - name: Objective-C / Swift
         level: 95%
 
       - name: Java
-        level: 98%
+        level: 95%
 
       - name: C#
         level: 95%
