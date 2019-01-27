@@ -71,6 +71,13 @@ education:
       details: |
         I completed a total of 30 units to gain a deeper understanding in the field of information technology and
         explore career oppurtunities, expand my network, and jumpstart a teaching career.
+    
+    - degree: BS in Computer Science
+      university: St. Ferdinand College
+      time: 2001 - 2005
+      details: |
+        I graduated with honours and was a consistent recipient of Dean's List scholarship.
+        
 
 experiences:
     - role: IT (Software) Engineer 
