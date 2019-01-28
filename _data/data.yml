@@ -163,7 +163,10 @@ skills:
       - name: C / C++
         level: 96%
 
-      - name: Swift & Objective-C
+      - name: Swift
+        level: 95%
+        
+      - name: Objective-C
         level: 95%
 
       - name: Java
