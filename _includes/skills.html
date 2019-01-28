@@ -9,15 +9,7 @@
   <ul class="list-unstyled skillset-list">
 
     {% for skill in skills.toolset %}
-    <li class="item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </li><!--//item-->
+    <li>{{ skill.name }}</li>
     {% endfor %}
 
   </ul>
