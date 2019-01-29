@@ -29,7 +29,7 @@ sidebar:
         level: Professional
 
       - idiom: Japanese
-        level: Professional
+        level: JLPT N2
 
       - idiom: Filipino (Tagalog and Ilocano)
         level: Native
@@ -56,25 +56,25 @@ career-profile:
 education:
     - degree: (Postgraduate) Certificate in Information Technology
       university: University of the Philippines IT Training Center
-      time: 2008 - 2009
+      time: 2008 - 2009 (graduated)
       details: |
-        I earned a one year full-time postgraduate certificate in IT specializing in Embedded Systems and Mobile Computing.
+        I completed a one year full-time postgraduate certificate in IT specializing in Embedded Systems and Mobile Computing.
         It is an intensive training-based (coursework) program which combines technical and business modules 
         specifically designed in collaboration with industry and academic experts in mobile and embedded systems.
 
-          - Obtained full scholarship grant 
+          - Obtained a full scholarship grant 
           - Capstone project was selected for presentation to industry partners
 
     - degree: Continuing Education in MSc in Information Technology
       university: St. Louis University
-      time: 2005 - 2006
+      time: 2005 - 2007
       details: |
-        I completed a total of 30 units to gain a deeper understanding in the field of information technology and
+        I took a total of 10 courses to gain a deeper understanding in the field of information technology and
         explore career oppurtunities, expand my network, and jumpstart a teaching career.
     
     - degree: BS in Computer Science
       university: St. Ferdinand College
-      time: 2001 - 2005
+      time: 2001 - 2005 (graduated)
       details: |
         I graduated with honours and was a consistent recipient of Dean's List scholarship.
 
@@ -83,12 +83,16 @@ experiences:
       time: 2011 - Present
       company: Morson Japan Co., Ltd., Hamamatsu City, Shizuoka, Japan
       details: |
-        Areas of responsibility included (but not limited to) program design, code implementation,
-        test design, testing, documentation, and maintenance of:
-
-          - iOS and Android applications
-          - Windows, Mac, and Linux desktop applications
-          - API and middleware libraries
+        As software engineer, responsible in different aspects of software development such as
+        
+          - program implementation including coding, unit testing and code review
+          - integration testing, and system testing based on test designs
+          - bug fix, profiling and software optimization
+          - software support and maintenance
+          - create and maintain program documentation
+          
+        As a field engineer, tasked to communicate development progress, negotiate and collaborate solutions to issues, 
+        and maintain an open dialogue to ensure thorough understanding of client's requirements and satisfaction.
 
     - role: Training Officer
       time: 2009 - 2011
